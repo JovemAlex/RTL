@@ -1,5 +1,5 @@
 <h1>React Testing Library🐙</h1>
-<p><em>Projeto desenvolvido com os conhecimentos adquirido no módulo de Fundamentos da <a href="https://www.betrybe.com/" alt="Site da Trybe">Trybe!</a></em></p>
+<p><em>Projeto desenvolvido com os conhecimentos adquirido no módulo de Front-end da <a href="https://www.betrybe.com/" alt="Site da Trybe">Trybe!</a></em></p>
 
 <h3>Objetivo:</h3>
 <p>Nesse projeto o objetivo era criar testes para uma aplicação React que já está criada e configurada, utilizando Jest e a biblioteca React Testing Library.</p>
