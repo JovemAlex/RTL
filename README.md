@@ -1,4 +1,4 @@
-<h1>React Testing Library</h1>
+<h1>React Testing Library🐙</h1>
 <p><em>Projeto desenvolvido com os conhecimentos adquirido no módulo de Fundamentos da <a href="https://www.betrybe.com/" alt="Site da Trybe">Trybe!</a></em></p>
 
 <h3>Objetivo:</h3>
